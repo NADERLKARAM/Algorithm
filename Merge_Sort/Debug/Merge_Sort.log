@@ -1,0 +1,15 @@
+﻿  Merge_Sort.cpp
+C:\c++\algo\Merge_Sort\Merge_Sort.cpp(11,20): error C2131: expression did not evaluate to a constant
+C:\c++\algo\Merge_Sort\Merge_Sort.cpp(7,45): message : failure was caused by a read of a variable outside its lifetime
+C:\c++\algo\Merge_Sort\Merge_Sort.cpp(7,45): message : see usage of 'mid'
+C:\c++\algo\Merge_Sort\Merge_Sort.cpp(12,21): error C2131: expression did not evaluate to a constant
+C:\c++\algo\Merge_Sort\Merge_Sort.cpp(8,47): message : failure was caused by a read of a variable outside its lifetime
+C:\c++\algo\Merge_Sort\Merge_Sort.cpp(8,47): message : see usage of 'end'
+C:\c++\algo\Merge_Sort\Merge_Sort.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+C:\c++\algo\Merge_Sort\Merge_Sort.cpp(16,23): error C3863: array type 'int [left_length]' is not assignable
+C:\c++\algo\Merge_Sort\Merge_Sort.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\c++\algo\Merge_Sort\Merge_Sort.cpp(19,24): error C3863: array type 'int [right_length]' is not assignable
+C:\c++\algo\Merge_Sort\Merge_Sort.cpp(24,14): warning C4018: '<': signed/unsigned mismatch
+C:\c++\algo\Merge_Sort\Merge_Sort.cpp(29,14): warning C4018: '<': signed/unsigned mismatch
+C:\c++\algo\Merge_Sort\Merge_Sort.cpp(34,14): warning C4018: '<': signed/unsigned mismatch
+C:\c++\algo\Merge_Sort\Merge_Sort.cpp(39,14): warning C4018: '<': signed/unsigned mismatch
