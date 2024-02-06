@@ -1,0 +1,4 @@
+﻿  Encrypt_and_Decrypt2.cpp
+C:\c++\algo\Encrypt_and_Decrypt2\Encrypt_and_Decrypt2.cpp(17,20): warning C4018: '<=': signed/unsigned mismatch
+C:\c++\algo\Encrypt_and_Decrypt2\Encrypt_and_Decrypt2.cpp(26,20): warning C4018: '<=': signed/unsigned mismatch
+  Encrypt_and_Decrypt2.vcxproj -> C:\c++\algo\Encrypt_and_Decrypt2\Debug\Encrypt_and_Decrypt2.exe
