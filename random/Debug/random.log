@@ -1,0 +1,3 @@
+﻿  random.cpp
+C:\c++\algo\random\random.cpp(40): warning C4715: 'GetRandomCharacter': not all control paths return a value
+  random.vcxproj -> C:\c++\algo\random\Debug\random.exe
